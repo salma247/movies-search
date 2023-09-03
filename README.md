@@ -12,10 +12,9 @@
   - [Technologies Used](#technologies-used)
 
 ## Description
-This is movie search app that uses debounce to delay the search request. It is built with React and TS. I built this app to practice using debounce in React by creating a custom hook.
+This is a movie search app that uses debounce to delay the search request. It is built with React and TS. I built this app to practice using debounce in React by creating a custom hook.
 
 ## Screenshots
-add gif here
 ![movie-search.gif](./src/assets/React%20App.gif)
 
 

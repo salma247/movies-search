@@ -5,6 +5,7 @@
 - [Project Name](#project-name)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
+  - [Screenshots](#screenshots)
   - [Demo](#demo)
   - [Installation](#installation)
   - [Features](#features)
@@ -12,6 +13,11 @@
 
 ## Description
 This is movie search app that uses debounce to delay the search request. It is built with React and TS. I built this app to practice using debounce in React by creating a custom hook.
+
+## Screenshots
+add gif here
+![movie-search.gif](./src/assets/React%20App.gif)
+
 
 ## Demo
 

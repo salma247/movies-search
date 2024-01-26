@@ -42,6 +42,7 @@ npm run dev
 
 - Search for movies
 - View movie details
+- custom implementation of useDebounce and useThrotling
 
 ## Technologies Used
 
